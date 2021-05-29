@@ -14,7 +14,7 @@
 
 ---
 
-#### known bugs / future ?
+### known bugs / future ?
 
 - [pypresence](https://github.com/qwertyquerty/pypresence/) only allows updating the `Presence` object every 15 seconds. Therefore, showing a time elapsed for the current song in the RPC makes no sense.
 
@@ -22,12 +22,16 @@
 
 - I might package it into a pip project and run it / watch for the moc server when the user calls a command.
 
-#### why ?
+### why ?
 
 why not. ~~i use mocp sometimes and thought it'd be cool to have rpc for it~~
 
-#### the code is bad
+### the code is bad
 
 I know. If you really hate it that bad, just create an Issue or Pull Request.
+
+### license
+
+[MIT](./LICENSE)
 
 ---
